@@ -54,7 +54,7 @@ These techniques will be explored in the lectures and tutorials and employed dur
 - [Chisomo Msefula](https://orcid.org/0000-0003-2304-886X), Kamuzu University of Health Sciences, Malawi
 - [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
 - [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford
-- [Leonard Ndwiga](https://www.linkedin.com/in/lndwiga), KEMRI-Wellcome Trust Research Programme, Kenya
+- [Leonard Ndwiga](https://www.linkedin.com/in/lndwiga), University of Glasgow
 - [Martin Maiden](https://www.biology.ox.ac.uk/people/professor-martin-maiden), University of Oxford
 - [Odile Harrison](https://www.ndph.ox.ac.uk/team/odile-harrison), University of Oxford
 - [Robert Onsare](https://www.kemri.go.ke/cmr-staff-profiles/#1635772764582-f76cb380-cf24), Kenya Medical Research Institute
