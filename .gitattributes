@@ -1,1 +1,2 @@
 course_data/bioinformatics/blast/16S_ref.fasta.gz filter=lfs diff=lfs merge=lfs -text
+*.fasta.gz filter=lfs diff=lfs merge=lfs -text
