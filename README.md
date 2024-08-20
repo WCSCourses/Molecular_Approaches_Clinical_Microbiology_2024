@@ -5,6 +5,8 @@
 ## 31 August–6 September 2024, Stellenbosch University, South Africa
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-genomic-approaches-to-clinical-microbiology-in-africa-20240831/) <br /> 
+[Course TimeTable](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Timetable.pdf) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/blob/main/Course_Informatics_Guide.md) <br /> 
 
 # Summary
 
