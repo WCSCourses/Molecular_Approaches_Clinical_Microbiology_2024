@@ -6,9 +6,9 @@
 
 | Software                                                                 | Version (if not latest) | Modules                           | Notes  |
 |--------------------------------------------------------------------------|-------------------------|----------------------------------|---------|
-| [MEGA](https://www.megasoftware.net/) (Linux VM)                         | 11.0.13                 | Bioinformatics                   | |
-| [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs) (Linux VM) |                | Bioinformatics                   | |
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Linux VM)         | Latest                  | Bioinformatics                   | |
+| [MEGA](https://www.megasoftware.net/)                                    | 11.0.13                 | Bioinformatics                   | |
+| [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs)      |   Latest             | Bioinformatics                   | |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/)                    | Latest                  | Bioinformatics                   | |
 | [QuantStudio](https://www.thermofisher.com/order/catalog/product/QuantStudio) | 1.3                | Real-time PCR analysis           | |
 | [data.table](https://cran.r-project.org/web/packages/data.table/index.html) | Latest               | Rstudio                          | |
 | [janitor](https://cran.r-project.org/web/packages/janitor/index.html)    | Latest                  | Rstudio                          | |
