@@ -380,6 +380,8 @@ PubMLST.org (https://pubmlst.org) is a free online web-based resource which uses
 
 In this practical you will use PubMLST to analyse whole genome sequence (WGS) data from meningococci isolated in Africa. These data originate from 716 meningococci obtained 2011-2016 from 11 countries in the meningitis belt and were published in EBioMedicine in 2019 (2). 
 
+Please note that you will need to sign up for a PubMLST account and register this with the *Neisseria* isolate database. See https://pubmlst.org/site-accounts.
+
 ### Navigating PubMLST
 Open a new browser window and type: https://pubmlst.org/neisseria
 
