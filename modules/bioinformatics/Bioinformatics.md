@@ -106,7 +106,7 @@ cp /usr/loca/share/MACMA/bioinformatics/16S_ref.fasta.gz .
 ls -lh
 ```
 You should see something like the following:
-> ``-rw-rw-r-- 1 keith keith 230M Dec 11  2017 16S_ref.fasta.gz``
+> ``-rw-rw-r-- 1 manager manager 230M Dec 11  2017 16S_ref.fasta.gz``
 
 The file size is 230MB.
 
@@ -119,7 +119,7 @@ When the file has finished uncompressing you will see that the file size is now 
 ls -lh
 ```
 
-> ``-rw-rw-r-- 1 keith keith 1.1G Dec 11  2017 16S_ref.fasta``
+> ``-rw-rw-r-- 1 manager manager 1.1G Dec 11  2017 16S_ref.fasta``
 
 The file size is now 1.1GB.
 
@@ -131,7 +131,7 @@ We can use this file to create a BLAST database against which we can query the s
 ```
 makeblastdb -in 16S_ref.fasta -dbtype nucl -out 16Sdb
 ```
-Now if you list the contents of the directory, you should see 3 new files: 16Sdb.nhr, 16Sdb.nin and 16Sdb.nsq. These together comprise the BLAST database.
+Now if you list the contents of the directory, you should see 8 new files: 16Sdb.ndb, 16Sdb.nhr, 16Sdb.nin, 16Sdb.njs, 16Sdb.not, 16Sdb.nsq, 16Sdb.ntf, and 16Sdb.nto. These together comprise the BLAST database.
 
 16S sequences have been generated for 4 specimens. You can download these from <https://pubmlst.org/static/training/16S.tar>.
 ```
