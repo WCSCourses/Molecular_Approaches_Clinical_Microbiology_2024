@@ -61,7 +61,7 @@ These techniques will be explored in the lectures and tutorials and employed dur
 - [Odile Harrison](https://www.ndph.ox.ac.uk/team/odile-harrison), University of Oxford
 - [Robert Onsare](https://www.kemri.go.ke/cmr-staff-profiles/#1635772764582-f76cb380-cf24), Kenya Medical Research Institute
 - [Sam Kariuki](http://www.kemri.go.ke/cmr-staff-profiles/#1635768168860-825b002f-afef), Kenya Medical Research Institute
-- [Susan Kavai](https://www.kemri.go.ke/cmr-staff-profiles/#1648026803339-009e565e-07a8), Kenya Medical Research Institute
+
 
 **Wellcome Connecting Science Team**   
 
