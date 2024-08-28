@@ -310,11 +310,11 @@ The bootstrap values will be displayed on each branch of the tree.
 ## Practical 3: Introduction to molecular sequence typing using PubMLST
 PubMLST.org (https://pubmlst.org) is a free online web-based resource that supports sequence typing nomenclature as well as containing extensive isolate and genome libraries.
 
-In this practical we will be using the PubMLST *Neisseria* database to identify MLST alleles, sequence types (STs), and the finetyping antigen peptide (PorA and FetA) variants, for a set of capsular group X meningococcal isolates from Africa. Sequence data for these can be found at https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/sequence_typing/.
+In this practical we will be using the PubMLST *Neisseria* database to identify MLST alleles, sequence types (STs), and the finetyping antigen peptide (PorA and FetA) variants, for a set of capsular group X meningococcal isolates from Africa. Sequence data for these can be found at https://github.com/WCSCourses/MolAppAfrica_2024/tree/main/course_data/bioinformatics/sequence_typing/.
 
-First download and open the Excel worksheet (https://github.com/WCSCourses/MolAppAfrica_2023/raw/main/course_data/bioinformatics/sequence_typing/worksheet.xlsx). Fill this in as you go.
+First download and open the Excel worksheet (https://github.com/WCSCourses/MolAppAfrica_2024/raw/main/course_data/bioinformatics/sequence_typing/worksheet.xlsx). Fill this in as you go.
 
-If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/MolAppAfrica_2023/raw/main/course_data/bioinformatics/sequence_typing/data.zip. 
+If you wish, you can download all the files as a zip archive from https://github.com/WCSCourses/MolAppAfrica_2024/raw/main/course_data/bioinformatics/sequence_typing/data.zip. 
 
 ### Navigating PubMLST
 Open a new browser window and type: https://pubmlst.org/neisseria
