@@ -95,7 +95,7 @@ Now we will obtain reference 16S sequences. These are available from the SILVA w
 
 Copy the compressed sequence file to the current directory. A dot (.) on its own in a command means the current directory. The .gz ending indicates that the file is compressed using gzip.
 ```
-cp /usr/loca/share/MACMA/bioinformatics/16S_ref.fasta.gz .
+cp /usr/local/share/MACMA/bioinformatics/16S_ref.fasta.gz .
 ```
 > **_Note_** that if you wish to run this practical later on your own computer, you can obtain this file from <https://www.arb-silva.de/fileadmin/silva_databases/release_132/Exports/SILVA_132_SSURef_Nr99_tax_silva.fasta.gz>. This URL has been shortened by tinyurl to <https://tinyurl.com/y7dh2htc>.  You can download files using the ``wget`` command.   
 > 
