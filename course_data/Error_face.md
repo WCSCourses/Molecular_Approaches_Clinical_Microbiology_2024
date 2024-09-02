@@ -9,6 +9,6 @@ another alternative is
 ```sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0 ```
 
 3. Rstudio package installation line
-```install. packages(c("data.table", "janitor", "dplyr", "stringr", "stringi","tidyverse","ggplot2","tidyr", "ggpubr","plotly","arsenal","cowplot", "openxlsx"))```
+```install.packages(c("data.table", "janitor", "dplyr", "stringr", "stringi","tidyverse","ggplot2","tidyr", "ggpubr","plotly","arsenal","cowplot", "openxlsx"))```
 
 
