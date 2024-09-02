@@ -165,14 +165,22 @@ For these exercises we will be using the program MEGA (Molecular Evolutionary Ge
 
 ![](images/stop-sign.png)
 
-You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines - the data have already been installed on these, but you will need to copy them into your account to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
+You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/Molecular_Approaches_Clinical_Microbiology_2024/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines. You will need to download the data into your user directories on your virtual machine to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
 
 ```
+cd
 mkdir Desktop/phylogenetics
-cp /usr/local/share/MACMA/bioinformatics/*.fas Desktop/phylogenetics
+cd Desktop/phylogenetics
+wget --output-document=phylogenetics.tar https://tinyurl.com/24dzfqk4
 ```
 
-You should now see a new folder on your desktop called 'phylogenetics' that contains two files. You will be able to drag-and-drop from here into the MEGA window later.
+This will download a tar file called phylogenetics.tar that contains 2 FASTA files (the long URL was shortened using tinyurl). Extract the FASTA files using the tar command below
+
+```
+tar xvf phylogenetics.tar
+```
+
+You should now see a new folder on your desktop called 'phylogenetics' that contains two FASTA files (and the tar file that you downloaded). You will be able to drag-and-drop from here into the MEGA window later.
 
 ![](images/linux_phylo.jpg)
 
