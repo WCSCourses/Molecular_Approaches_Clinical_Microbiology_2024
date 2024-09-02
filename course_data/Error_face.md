@@ -7,3 +7,5 @@ another alternative is
 
 2. Rstudio not opening and crashing
 ```sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0 ```
+
+
