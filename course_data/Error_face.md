@@ -8,4 +8,7 @@ another alternative is
 2. Rstudio not opening and crashing
 ```sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0 ```
 
+3. Rstudio package installation line
+```install. packages(c("data.table", "janitor", "dplyr", "stringr", "stringi","tidyverse","ggplot2","tidyr", "ggpubr","plotly","arsenal","cowplot", "openxlsx"))```
+
 
