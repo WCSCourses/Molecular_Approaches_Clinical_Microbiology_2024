@@ -12,8 +12,6 @@
 
 Molecular and genomic techniques are revolutionising the routine identification and characterisation of pathogens, creating new opportunities and challenges in all areas of clinical microbiology from clinical diagnostics to fundamental research. This course will examine the impact of these approaches in the clinical setting using worked examples of bacterial pathogens of importance in Africa.
 
-The week-long course will be held at, and in collaboration, with the [Stellenbosch University](http://www.sun.ac.za/english), in South Africa. It will provide clinical microbiologists and laboratory scientists with a hands-on concise yet comprehensive overview of the latest research and practice in this essential area, with an emphasis on how these techniques can be applied on a day-to-day basis. There will be also be extensive opportunity to interact with the course faculty during the course.
-
 # Target Audience
 
 The course is aimed at those primarily trained in culture-based microbiology and combines an understanding of the latest research techniques and theoretical approaches, with practical methods to provide a foundation-level of understanding of the philosophy, methods, and specialist terminology of molecular techniques. 
